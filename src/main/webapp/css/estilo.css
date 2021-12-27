@@ -1,0 +1,16 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25 dic. 2021, 15:11:39
+    Author     : karis
+*/
+nav{align-content: center;}
+#navbarText{align-content: center; position:relative;left:10%;font-size:18px;}
+#Turnera{position:relative; right:20%; font-size:18px;}
+.carousel-inner{position:relative; left:25%;}
+.card-text{color:black;}
+#quienesomos{position:relative; left:15%;}
+table{background-color:#E9FFF4; color:#276A49 }
+.card{background-color:#276A49;}
